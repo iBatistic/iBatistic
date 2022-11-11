@@ -11,7 +11,9 @@
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"><img src="https://banner2.cleanpng.com/20180629/hjt/kisspng-latex-tex-live-typesetting-text-editor-tex-5b35eeb289e0b6.1909910215302611705648.jpg" width="46" height="26" alt="Latex" /></a>
 <a href="https://www.bash.com/" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9pDzL7hgzhBGXhUZFTuvbCOzPD9s1oghoWfD14lccHu0hzxAoSdOHfrIDwp7slVPPiWs&usqp=CAU" width="36" height="36" alt="Bash" /></a>
+<a href="https://www.git.com/" target="_blank" rel="noreferrer"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-Black.png" width="36" height="36" alt="Git" /></a>
 
+  
 <p align="left">
 <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://assets.ubuntu.com/v1/ce518a18-CoF-2022_solid+O.svg" width="36" height="36" alt="Ubuntu" /></a>
 <a href="https://www.microsoft.com/hr-hr/" target="_blank" rel="noreferrer"><img src="https://evo.audio/wp-content/uploads/2016/05/Windows-10-Icon.png" width="36" height="36" alt="Ubuntu" /></a>
