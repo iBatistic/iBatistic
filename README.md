@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ivan Batistic
+- 👋 Hi, I’m Ivan Batistić
 - 🌱 I graduated with my PhD in Mechanical Engineering
 - 🍯 Currently I work as postDoc researcher
 
