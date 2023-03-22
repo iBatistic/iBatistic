@@ -37,5 +37,7 @@
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/iBatistic"><img src="https://github-readme-stats.vercel.app/api?username=iBatistic&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="iBatistic's GitHub stats" /></a>
-<a href="https://github.com/iBatistic" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iBatistic&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/iBatistic"><img src="https://github-readme-stats.vercel.app/api?username=iBatistic&show_icons=true&hide=&count_private=true&hide_border=true&show_icons=true" alt="iBatistic's GitHub stats" /></a>
+<a href="https://github.com/iBatistic" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iBatistic&langs_count=10&title_color=black&text_color=black&icon_color=0891b2&bg_color=white&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
