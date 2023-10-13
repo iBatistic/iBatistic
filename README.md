@@ -17,6 +17,7 @@
 <a href="https://octave.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Gnu-octave-logo.svg" width="36" height="36" alt="Ubuntu" /></a>
 <a href="https://www.openfoam.com/" target="_blank" rel="noreferrer"><img src="https://www.openfoam.com/themes/bs4esi/img/logo-1200x627.jpg" width="86" height="46" alt="OpenFOAM" /></a>
 <a href="https://www.ansys.com/products/fluids/ansys-fluent" target="_blank" rel="noreferrer"><img src="https://aopds.com/wp-content/uploads/2020/03/Fluids.jpg" width="46" height="30" alt="Fluent" /></a>
+<a href="https://www.rhino3d.com" target="_blank" rel="noreferrer"><img src="https://global.discourse-cdn.com/mcneel/uploads/default/original/4X/8/1/1/811bca9e86eea0a004ecef3ad2f92f7a69a20262.jpeg" width="46" height="30" alt="Rhino" /></a>
 
 </p>
 
