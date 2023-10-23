@@ -19,6 +19,7 @@
 <a href="https://www.ansys.com/products/fluids/ansys-fluent" target="_blank" rel="noreferrer"><img src="https://aopds.com/wp-content/uploads/2020/03/Fluids.jpg" width="46" height="30" alt="Fluent" /></a>
 <a href="https://www.rhino3d.com/" target="_blank" rel="noreferrer"><img src="https://iconape.com/wp-content/png_logo_vector/rhinoceros-3d-logo.png" width="36" height="36" alt="Rhino" /></a>
 <a href="https://cfmesh.com/" target="_blank" rel="noreferrer"><img src="https://i.pinimg.com/736x/36/09/fc/3609fcd97fea53b5010a9c744b739ce2.jpg" width="36" height="36" alt="cfMesh" /></a>
+<a href="https://www.qcad.org/en/" target="_blank" rel="noreferrer"><img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_7e2d71e1f7121749289dd44239fcdd02/qcad.png" width="36" height="36" alt="QCAD" /></a>
 
 </p>
 
