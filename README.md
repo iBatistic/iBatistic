@@ -15,7 +15,7 @@
 <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://assets.ubuntu.com/v1/ce518a18-CoF-2022_solid+O.svg" width="36" height="36" alt="Ubuntu" /></a>
 <a href="https://www.microsoft.com/hr-hr/" target="_blank" rel="noreferrer"><img src="https://evo.audio/wp-content/uploads/2016/05/Windows-10-Icon.png" width="36" height="36" alt="Ubuntu" /></a>
 <a href="https://octave.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Gnu-octave-logo.svg" width="36" height="36" alt="Ubuntu" /></a>
-<a href="https://www.openfoam.com/" target="_blank" rel="noreferrer"><img src="https://www.openfoam.com/themes/bs4esi/img/logo-1200x627.jpg" width="86" height="46" alt="OpenFOAM" /></a>
+<a href="https://www.openfoam.com/" target="_blank" rel="noreferrer"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AOpenFOAM_logo.svg&psig=AOvVaw3ocmSmN3_h9_OnUUFaUqEV&ust=1728668538928000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOC5q6auhIkDFQAAAAAdAAAAABBE" width="86" height="46" alt="OpenFOAM" /></a>
 <a href="https://www.ansys.com/products/fluids/ansys-fluent" target="_blank" rel="noreferrer"><img src="https://aopds.com/wp-content/uploads/2020/03/Fluids.jpg" width="46" height="30" alt="Fluent" /></a>
 <a href="https://www.rhino3d.com/" target="_blank" rel="noreferrer"><img src="https://iconape.com/wp-content/png_logo_vector/rhinoceros-3d-logo.png" width="36" height="36" alt="Rhino" /></a>
 <a href="https://cfmesh.com/" target="_blank" rel="noreferrer"><img src="https://i.pinimg.com/736x/36/09/fc/3609fcd97fea53b5010a9c744b739ce2.jpg" width="36" height="36" alt="cfMesh" /></a>
