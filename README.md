@@ -3,8 +3,7 @@
 - 🍯 Currently I work as postDoc researcher
 
 * ✉️  You can contact me at [ivan.batistic2@gmail.com](mailto:ivan.batistic2@gmail.com)
-* 
- ![](https://komarev.com/ghpvc/?username=IvanBatistic&style=for-the-badge&color=green&abbreviated=true)
+* ![](https://komarev.com/ghpvc/?username=IvanBatistic&style=for-the-badge&color=green&abbreviated=true)
 
 ### Skills
 
