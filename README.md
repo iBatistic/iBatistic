@@ -3,6 +3,8 @@
 - 🍯 Currently I work as postDoc researcher
 
 * ✉️  You can contact me at [ivan.batistic2@gmail.com](mailto:ivan.batistic2@gmail.com)
+* 
+ ![](https://komarev.com/ghpvc/?username=IvanBatistic&style=for-the-badge&color=green&abbreviated=true)
 
 ### Skills
 
@@ -28,7 +30,7 @@
 <a href="https://www.github.com/iBatistic" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
 <a href="https://www.linkedin.com/in/iBatistic/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
 <a href="https://www.researchgate.net/profile/Ivan-Batistic" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" width="32" height="32" /></a> 
- ![](https://komarev.com/ghpvc/?username=IvanBatistic&style=for-the-badge&color=green&abbreviated=true)
+
 
 <b>My GitHub Stats</b>
 <a href="http://www.github.com/iBatistic"><img src="https://github-readme-stats.vercel.app/api?username=iBatistic&show_icons=true&hide=&count_private=true&hide_border=true&show_icons=true" alt="iBatistic's GitHub stats" /></a>
