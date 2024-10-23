@@ -3,6 +3,7 @@
 - 🍯 Currently I work as postDoc researcher
 
 * ✉️  You can contact me at [ivan.batistic2@gmail.com](mailto:ivan.batistic2@gmail.com)
+  
 * ![](https://komarev.com/ghpvc/?username=IvanBatistic&style=for-the-badge&color=green&abbreviated=true)
 
 ### Skills
@@ -31,7 +32,7 @@
 <a href="https://www.researchgate.net/profile/Ivan-Batistic" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" width="32" height="32" /></a> 
 
 
-<b>My GitHub Stats</b>
+<b>My GitHub Stats</b>  
 <a href="http://www.github.com/iBatistic"><img src="https://github-readme-stats.vercel.app/api?username=iBatistic&show_icons=true&hide=&count_private=true&hide_border=true&show_icons=true" alt="iBatistic's GitHub stats" /></a>
 <a href="https://github.com/iBatistic" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iBatistic&langs_count=10&title_color=black&text_color=black&icon_color=0891b2&bg_color=white&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
