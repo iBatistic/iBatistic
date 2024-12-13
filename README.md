@@ -31,6 +31,7 @@
 <a href="https://www.linkedin.com/in/iBatistic/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
 <a href="https://www.researchgate.net/profile/Ivan-Batistic" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" width="32" height="32" /></a> 
 <a href="https://orcid.org/0000-0002-6104-0415" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/orcid-icon-2048x2048-q87cnnge.png" width="32" height="32" /></a> 
+[![Discord][discord-badge]][discord-link] 
 
 <b>My GitHub Stats</b>  
 <a href="http://www.github.com/iBatistic" align="center"><img src="https://github-readme-stats.vercel.app/api?username=iBatistic&show_icons=true&hide=&count_private=true&hide_border=true&show_icons=true" alt="iBatistic's GitHub stats" /></a>
@@ -38,5 +39,10 @@
 
 
 
+<!-- LINKS -->
 
+[email-badge]: https://img.shields.io/badge/-ivan.batistic2@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white&link=mailto:ivan.batistic2@gmail.com
+[email-link]: mailto:ivan.batistic2@gmail.com
 
+[discord-badge]: https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white
+[discord-link]: https://discord.com/users/ibatistic.
