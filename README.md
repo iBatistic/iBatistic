@@ -2,7 +2,7 @@
 - 🌱 I graduated with my PhD in Mechanical Engineering
 - 🍯 Currently I work as postDoc researcher
 
-* ✉️  You can contact me at [ivan.batistic2@gmail.com](mailto:ivan.batistic2@gmail.com)
+* ✉️  You can contact me at [![Email][email-badge]][email-link]  
   
 * ![](https://komarev.com/ghpvc/?username=IvanBatistic&style=for-the-badge&color=green&abbreviated=true)
 
