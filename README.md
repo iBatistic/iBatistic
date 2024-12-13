@@ -31,7 +31,7 @@
 <a href="https://www.linkedin.com/in/iBatistic/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
 <a href="https://www.researchgate.net/profile/Ivan-Batistic" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" width="32" height="32" /></a> 
 <a href="https://orcid.org/0000-0002-6104-0415" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/orcid-icon-2048x2048-q87cnnge.png" width="32" height="32" /></a> 
-<a href="https://discord.com/users/ibatistic." target="_blank" rel="noreferrer"><img src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" width="32" height="32" /></a> 
+<a href="https://discord.com/users/ibatistic." target="_blank" rel="noreferrer"><img src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" width="42" height="32" /></a> 
 
 
 <b>My GitHub Stats</b>  
