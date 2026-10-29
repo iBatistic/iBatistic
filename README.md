@@ -60,6 +60,11 @@ Open to research collaborations, master, PhD and postdoc inquiries, as well for 
 ## Recent activity
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#102](https://github.com/solids4foam/solids4foam.github.io/pull/102) in [solids4foam/solids4foam.github.io](https://github.com/solids4foam/solids4foam.github.io)
+2. 🗣 Commented on [#571](https://github.com/solids4foam/solids4foam/pull/571#issuecomment-6468632265) in [solids4foam/solids4foam](https://github.com/solids4foam/solids4foam)
+3. 🗣 Commented on [#10753](https://github.com/openjournals/joss-reviews/issues/10753#issuecomment-6467691508) in [openjournals/joss-reviews](https://github.com/openjournals/joss-reviews)
+4. 💪 Opened PR [#42](https://github.com/solids4foam/solid-benchmarks/pull/42) in [solids4foam/solid-benchmarks](https://github.com/solids4foam/solid-benchmarks)
+5. 🗣 Commented on [#575](https://github.com/solids4foam/solids4foam/pull/575#issuecomment-6455095631) in [solids4foam/solids4foam](https://github.com/solids4foam/solids4foam)
 <!--END_SECTION:activity-->
 
 ## Metrics
