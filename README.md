@@ -29,7 +29,7 @@
 
 I work on finite volume methods for fluid mechanics, solid mechanics and fluid–structure interaction.
 Most of my development is done in the OpenFOAM library, including toolboxes such as
-[solids4foam](https://solids4foam.github.io), where I am one of the developers. I teach undergraduate and graduate courses on fluid mechanics
+solids4foam, where I am one of the developers. I teach undergraduate and graduate courses on fluid mechanics
 fundamentals and computational fluid dynamics, and I supervise theses in computational mechanics at the 
 Department of Fluid Mechanics, Faculty of Mechanical Engineering and Naval Architecture, University of Zagreb.
 
@@ -40,7 +40,7 @@ Department of Fluid Mechanics, Faculty of Mechanical Engineering and Naval Archi
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
   <img alt="OpenFOAM" src="https://img.shields.io/badge/OpenFOAM-1E5AA8?style=for-the-badge">
-  <a href="https://solids4foam.github.io"><img alt="solids4foam" src="https://img.shields.io/badge/solids4foam-2E86AB?style=for-the-badge"></a>
+  <img alt="solids4foam" src="https://img.shields.io/badge/solids4foam-2E86AB?style=for-the-badge">
   <img alt="Gmsh" src="https://img.shields.io/badge/Gmsh-1A5276?style=for-the-badge">
   <img alt="ParaView" src="https://img.shields.io/badge/ParaView-3F7FBF?style=for-the-badge">
   <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white">
