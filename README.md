@@ -2,9 +2,11 @@
 
 # Ivan Batistić
 
-**Assistant Professor  · Computational Fluid Dynamics · Computational Solid Mechanics**
+**Assistant Professor · Head of the Computational Fluid Dynamics Laboratory**
 
-Head of the Computational Fluid Dynamics Laboratory · [University of Zagreb, FSB](https://www.fsb.unizg.hr)
+**Computational Fluid Dynamics · Computational Solid Mechanics**
+
+ [University of Zagreb, Faculty of Mechanical Engineering and Naval Architecture](https://www.fsb.unizg.hr)
 
 <p>
   <a href="https://github.com/iBatistic" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" /></a>&nbsp;&nbsp;
@@ -19,7 +21,7 @@ Head of the Computational Fluid Dynamics Laboratory · [University of Zagreb, FS
 
 </div>
 
-<p align="left">
+<p align="center">
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=IvanBatistic&style=for-the-badge&color=green&abbreviated=true">
 </p>
 
