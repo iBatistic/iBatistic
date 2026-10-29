@@ -6,7 +6,7 @@
 
 **Computational Fluid Dynamics · Computational Solid Mechanics**
 
-[University of Zagreb, Faculty of Mechanical Engineering and Naval Architecture](https://www.fsb.unizg.hr)
+University of Zagreb, Faculty of Mechanical Engineering and Naval Architecture
 
 <p>
   <a href="https://github.com/iBatistic" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" /></a>&nbsp;&nbsp;
