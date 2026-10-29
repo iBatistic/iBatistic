@@ -1,0 +1,33 @@
+name: GitHub Stats Update
+on:
+  schedule:
+    - cron: '41 3 1,15 * *'  # 1st and 15th of each month, 03:41 UTC
+  workflow_dispatch:
+
+concurrency:
+  group: github-stats-update
+  cancel-in-progress: false
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GH_COMMIT_TOKEN || github.token }}
+
+      - name: Generate commit-time stats
+        uses: VatsalSy/commits-readme-stats@46fcfb462c8bb0615685721fd395656e1b4928b9
+        with:
+          # Optional: a classic PAT with `repo` scope stored as the GH_COMMIT_TOKEN
+          # secret lets the crawl include private repositories (e.g. solids4foam dev).
+          GH_COMMIT_TOKEN: ${{ secrets.GH_COMMIT_TOKEN || github.token }}
+          SHOW_COMMIT: true
+          SHOW_DAYS_OF_WEEK: true
+          COMMIT_MESSAGE: 'docs(stats): update github stats'
+          COMMIT_BY_ME: false
+          COMMIT_USERNAME: 'github-actions[bot]'
+          COMMIT_EMAIL: '41898282+github-actions[bot]@users.noreply.github.com'
