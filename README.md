@@ -62,11 +62,11 @@ Open to research collaborations, master, PhD and postdoc inquiries, as well for 
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#615](https://github.com/solids4foam/solids4foam/issues/615#issuecomment-6518358561) in [solids4foam/solids4foam](https://github.com/solids4foam/solids4foam)
-2. 🗣 Commented on [#634](https://github.com/solids4foam/solids4foam/issues/634#issuecomment-6494723049) in [solids4foam/solids4foam](https://github.com/solids4foam/solids4foam)
-3. ❗ Opened issue [#634](https://github.com/solids4foam/solids4foam/issues/634) in [solids4foam/solids4foam](https://github.com/solids4foam/solids4foam)
-4. 🗣 Commented on [#572](https://github.com/solids4foam/solids4foam/pull/572#issuecomment-6493766962) in [solids4foam/solids4foam](https://github.com/solids4foam/solids4foam)
-5. 💪 Opened PR [#102](https://github.com/solids4foam/solids4foam.github.io/pull/102) in [solids4foam/solids4foam.github.io](https://github.com/solids4foam/solids4foam.github.io)
+1. 🗣 Commented on [#683](https://github.com/solids4foam/solids4foam/issues/683#issuecomment-6880936404) in [solids4foam/solids4foam](https://github.com/solids4foam/solids4foam)
+2. 🗣 Commented on [#714](https://github.com/solids4foam/solids4foam/pull/714#issuecomment-6880839088) in [solids4foam/solids4foam](https://github.com/solids4foam/solids4foam)
+3. ℹ️ Labeled PR [#714](https://github.com/solids4foam/solids4foam/pull/714) in [solids4foam/solids4foam](https://github.com/solids4foam/solids4foam)
+4. ℹ️ Labeled PR [#714](https://github.com/solids4foam/solids4foam/pull/714) in [solids4foam/solids4foam](https://github.com/solids4foam/solids4foam)
+5. 💪 Opened PR [#714](https://github.com/solids4foam/solids4foam/pull/714) in [solids4foam/solids4foam](https://github.com/solids4foam/solids4foam)
 <!--END_SECTION:activity-->
 
 ## Metrics
